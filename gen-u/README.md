@@ -72,20 +72,21 @@
 
 1. リストで、Claude Sonnet 4 を **Nova Lite** に変更します。
 
-1. 「入力してください」の入力エリアに下記を入力します。
+1. 「入力してください」の入力エリアに下記を入力します。言語のリストを **日本語** にしてください。
 
     - ```
-        AWS took all of that feedback from customers, and today we are excited to announce Amazon Bedrock, 
-        a new service that makes FMs from AI21 Labs, Anthropic, Stability AI, and Amazon accessible via an API. 
-        Bedrock is the easiest way for customers to build and scale generative AI-based applications using FMs, 
-        democratizing access for all builders. Bedrock will offer the ability to access a range of powerful FMs 
-        for text and images—including Amazons Titan FMs, which consist of two new LLMs we’re also announcing 
-        today—through a scalable, reliable, and secure AWS managed service. With Bedrock’s serverless experience, 
-        customers can easily find the right model for what they’re trying to get done, get started quickly, privately 
-        customize FMs with their own data, and easily integrate and deploy them into their applications using the AWS 
-        tools and capabilities they are familiar with, without having to manage any infrastructure (including integrations 
-        with Amazon SageMaker ML features like Experiments to test different models and Pipelines to manage their FMs at scale).
-    ```
+      AWS took all of that feedback from customers, and today we are excited to announce Amazon Bedrock, 
+      a new service that makes FMs from AI21 Labs, Anthropic, Stability AI, and Amazon accessible via an API. 
+      Bedrock is the easiest way for customers to build and scale generative AI-based applications using FMs, 
+      democratizing access for all builders. Bedrock will offer the ability to access a range of powerful FMs 
+      for text and images—including Amazons Titan FMs, which consist of two new LLMs we’re also announcing 
+      today—through a scalable, reliable, and secure AWS managed service. With Bedrock’s serverless experience, 
+      customers can easily find the right model for what they’re trying to get done, get started quickly, privately 
+      customize FMs with their own data, and easily integrate and deploy them into their applications using the AWS 
+      tools and capabilities they are familiar with, without having to manage any infrastructure (including integrations 
+      with Amazon SageMaker ML features like Experiments to test different models and Pipelines to manage their FMs at scale).
+   　 ```
+1. 翻訳された結果が日本語で表示されることを確認します。
 
 ## チャットで質問してみましょう
 
@@ -105,5 +106,6 @@
 * 例3: `（ご自身の会社や組織）では社員が結婚するときに何日間休暇をもらえますか？`
 
 * 例4: `東京の明日の天気はどうなるでしょうか？`
+
 
 
