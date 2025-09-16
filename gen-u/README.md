@@ -85,7 +85,7 @@
       customize FMs with their own data, and easily integrate and deploy them into their applications using the AWS 
       tools and capabilities they are familiar with, without having to manage any infrastructure (including integrations 
       with Amazon SageMaker ML features like Experiments to test different models and Pipelines to manage their FMs at scale).
-   　 ```
+   　 
    
 1. 翻訳された結果が日本語で表示されることを確認します。
 
@@ -107,6 +107,7 @@
 * 例3: `（ご自身の会社や組織）では社員が結婚するときに何日間休暇をもらえますか？`
 
 * 例4: `東京の明日の天気はどうなるでしょうか？`
+
 
 
 
