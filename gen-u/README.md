@@ -82,7 +82,9 @@
 
 1. リストで、Claude Sonnet 4 を **Nova Lite** に変更します。
 
-1. 「入力してください」の入力エリアに下記を入力します。言語のリストを **日本語** にしてください。
+1. 言語のリストを **日本語** にしてます。
+   
+1. 「入力してください」の入力エリアに下記を入力します。
 
     - ```
       AWS took all of that feedback from customers, and today we are excited to announce Amazon Bedrock, 
@@ -139,6 +141,7 @@
 
 
   
+
 
 
 
