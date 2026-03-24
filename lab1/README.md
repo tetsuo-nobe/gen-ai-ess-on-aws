@@ -21,14 +21,6 @@
 * 特定の指示でプロンプトを最適化する。
 * 広告提案書を作成する。
 
-### アイコンキー
-
-このラボでは、さまざまな種類の手順と注記への注意を促すため、各種アイコンが使用されています。以下のリストは、各アイコンの目的を説明したものです。
-
-* <i aria-hidden="true" class="fas fa-clipboard-check" style="color:#18ab4b"></i> **想定される出力:** 出力のサンプルであり、コマンドまたは編集済みファイルの出力を確認するときに使用する。
-* <i aria-hidden="true" class="fas fa-sticky-note" style="color:#563377"></i> **注意:** ヒントや重要なガイダンス。
-* <i aria-hidden="true" class="far fa-thumbs-up" style="color:#008296"></i> **タスク完了:** ラボのまとめや要点を示す。
-* <i aria-hidden="true" class="fas fa-exclamation-triangle" style="color:#DF2A5D"></i> **警告:** 元に戻すことが不可能で、コマンドやプロセスの失敗に影響を与える可能性があるアクション (いったん実行すると変更できない設定に関する警告など)。
 
 <!--include:StartLab-->
 
